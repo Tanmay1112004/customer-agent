@@ -120,22 +120,6 @@ Response Saved to Memory
 }
 ```
 
----
-
-# 📂 Project Structure
-
-```text id="n7x2vm"
-customer-agent-ai/
-│
-├── main.py                 # Main application entry point
-├── memory.py               # Chat memory handling
-├── intent_classifier.py    # Intent detection logic
-├── urgency_detector.py     # Priority classification
-├── response_generator.py   # Automated reply engine
-├── requirements.txt
-└── README.md
-```
-
 > Current implementation may still contain logic consolidated inside the Kaggle notebook version.
 
 ---
