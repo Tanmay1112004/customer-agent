@@ -45,7 +45,7 @@ Example output:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/customer-agent-ai.git
+   git clone https://github.com/customer-agent-ai.git
    cd customer-agent-ai
    ```
 2. (Optional) Create a virtual environment and install dependencies (if any).
